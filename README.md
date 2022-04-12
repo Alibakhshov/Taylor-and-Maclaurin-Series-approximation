@@ -12,4 +12,18 @@ In this project you will find two versions of Taylor and Maclaurin Series Calcul
 
     pip install -r Requirements.txt
 
-<img src="main screen.png" alt="Flowers in Chania">
+
+<strong>Main screen of the Taylor and Maclaurin Series Calculator</strong>
+
+<img src="main screen.png" alt="">
+
+
+<strong>Solving for Taylor Series</strong>
+
+<img src="Taylor calculation.png" alt="">
+
+
+<strong>Solving for Taylor Series</strong>
+
+<img src="extra info.png" alt="">
+
