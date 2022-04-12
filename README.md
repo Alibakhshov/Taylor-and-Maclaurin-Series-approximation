@@ -11,3 +11,5 @@ In this project you will find two versions of Taylor and Maclaurin Series Calcul
 <strong>Install required packages:</strong>
 
     pip install -r Requirements.txt
+
+<img src="main screen.png" alt="Flowers in Chania">
