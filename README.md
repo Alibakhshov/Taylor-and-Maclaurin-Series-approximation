@@ -23,7 +23,7 @@ In this project you will find two versions of Taylor and Maclaurin Series Calcul
 <img src="Taylor calculation.png" alt="">
 
 
-<h3><strong>Solving for Taylor Series</strong></h3>
+<h3><strong>Scan the QR code for more information</strong></h3>
 
 <img src="extra info.png" alt="">
 
