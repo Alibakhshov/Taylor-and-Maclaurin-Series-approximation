@@ -13,7 +13,7 @@ In this project you will find two versions of Taylor and Maclaurin Series Calcul
     pip install -r Requirements.txt
 
 
-<strong>Main screen of the Taylor and Maclaurin Series Calculator</strong>
+<h3><strong>Main screen of the Taylor and Maclaurin Series Calculator</strong></h3>
 
 <img src="main screen.png" alt="">
 
